@@ -1,4 +1,4 @@
-package app.vortigaunt.webscheduler;
+package app.vortigaunt.webscheduler.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
